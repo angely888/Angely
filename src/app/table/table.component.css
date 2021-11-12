@@ -1,0 +1,10 @@
+table, th, td {
+    border: 6px solid rgb(169, 113, 214);
+  }
+  table.left {
+    margin-left: auto; 
+    margin-right: auto;
+    padding: 10px;
+    width: 100%
+  }
+ 
